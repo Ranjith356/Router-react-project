@@ -1,0 +1,17 @@
+.flex {
+  text-align: center;
+}
+.flexs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flexs div {
+  margin: 0 1rem 2rem 1rem;
+  text-align: center;
+}
+.flexs img {
+  display: inline-block;
+  max-width: 100%;
+}

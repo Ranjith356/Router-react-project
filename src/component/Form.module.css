@@ -1,0 +1,29 @@
+.formdesign {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgb(231, 239, 236);
+  margin: auto;
+  margin-top: 10vh;
+  box-shadow: 10px;
+  border-radius: 10px;
+}
+.flex {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 33vh;
+}
+.leter {
+  color: rgb(18, 103, 103);
+  text-shadow: 2px 2px 5px;
+  text-align: center;
+}
+.leter span {
+  font-size: 20px;
+}
+.fullbody {
+  /* background-color: black; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* box-shadow: aliceblue; */
+  height: 80vh;
+}

@@ -1,0 +1,25 @@
+.titile {
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 10px;
+  background-color: aliceblue;
+}
+.titile button {
+  margin-top: 20px;
+}
+.titile p {
+  font-weight: 1000;
+  font-size: 20px;
+  color: rgb(39, 39, 100);
+}
+.side {
+  margin-left: 200px;
+}
+.side p {
+  font-weight: bold;
+  font-size: 30px;
+}
+.phot {
+  width: 100vh;
+  float: right;
+}
